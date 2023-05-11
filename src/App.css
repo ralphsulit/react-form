@@ -20,8 +20,10 @@ body {
 .container {
   background-color: #fff;
   border-radius: 10px;
+  display: flex;
   height: 550px;
   width: 830px;
+  padding: 20px;
 }
 
 /* # Front-end Style Guide
