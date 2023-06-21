@@ -1,12 +1,11 @@
-import React, { Fragment } from 'react';
-
-import './App.scss';
+// import { Button } from 'react-bootstrap';
+import './App.css';
 
 function App() {
   return (
-    <Fragment>
-      App
-    </Fragment>
+    <div className="App container">
+      react form test
+    </div>
   );
 }
 
