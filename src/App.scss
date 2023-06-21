@@ -1,7 +1,13 @@
-
+@import './utils/variables';
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  color: $marine-blue;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
 }
